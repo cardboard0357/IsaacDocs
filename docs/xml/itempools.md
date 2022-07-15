@@ -2,7 +2,8 @@
 
 This page needs some content. You can contribute to it using the Edit Button!
 
-**Resource-Folder**{: .xmlInfo }: Using this file in a resource folder of a mod is not tested yet.
+**Resource-Folder**{: .xmlInfo }: it will replace the current pool
+
 
 **Content-Folder**{: .xmlInfo }: Using this file in a content folder of a mod is not tested yet.
 
